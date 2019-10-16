@@ -36,6 +36,8 @@
     ]
   },
   "devDependencies": {
+    "@redux-saga/testing-utils": "^1.1.1",
+    "@testing-library/react": "^9.3.0",
     "standard": "^14.3.1"
   }
 }
