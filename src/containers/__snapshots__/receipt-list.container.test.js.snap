@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Receipt List should render receipt list 1`] = `
+<body>
+  <div>
+    <div>
+      <h1>
+        Receipts:
+      </h1>
+      <ul>
+        <li>
+          dsc
+           - 
+          100
+           - 
+          CAD
+        </li>
+      </ul>
+    </div>
+  </div>
+</body>
+`;
